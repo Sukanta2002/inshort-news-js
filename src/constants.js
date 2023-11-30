@@ -1,0 +1,1 @@
+export const mainUrl = "https://m.inshorts.com/";
